@@ -1,1 +1,2 @@
-print("Hello HUILA")
+print("Hello")
+return 0
